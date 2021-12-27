@@ -1,14 +1,11 @@
 ## HelloWorld App
 
 ### App Description
-`TODO://` Created a basic Android app that alows the user to interact with multiple buttons that could change the custom text, text color, and background color of the app.
+Created a basic Android app that alows the user to interact with multiple buttons that could change the custom text, text color, and background color of the app.
 
-### App Walk-though
-`TODO://` 
+### App Walk-though 
 
 <img src="http://g.recordit.co/fYiouWBoCe.gif" width=200><br>
-
-`TODO://` 
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
