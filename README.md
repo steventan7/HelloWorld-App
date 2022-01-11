@@ -1,7 +1,7 @@
 ## HelloWorld App
 
 ### App Description
-Created a basic Android app that alows the user to interact with multiple buttons that could change the custom text, text color, and background color of the app.
+Created a basic Android app that a1lows the user to interact with multiple buttons that could change the custom text, text color, and background color of the app.
 
 ### App Walk-though 
 
