@@ -4,8 +4,9 @@
 Created a basic Android app that a1lows the user to interact with multiple buttons that could change the custom text, text color, and background color of the app.
 
 ### App Walk-though 
-
-<img src ="http://g.recordit.co/AhEB0rv2GJ.gif" width=200 alt='cannot find img'>
+<img src="http://g.recordit.co/fYiouWBoCe.gif" width=200>
+<img src="http://g.recordit.co/fYiouWBoCe.gif" width=200><br>
+<img src="http://g.recordit.co/AhEB0rv2GJ.gif" width=200 alt='cannot find img'>
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
 - [x] 2. User see's custom background color.
