@@ -5,7 +5,7 @@ Created a basic Android app that a1lows the user to interact with multiple butto
 
 ### App Walk-though 
 <img src="http://g.recordit.co/fYiouWBoCe.gif" width=200>
-<img src="http://g.recordit.co/shtNh3qHrl.gif" width=200 alt='cannot find img'>
+<img src="http://g.recordit.co/shtNh3qHrl.gif" alt='cannot find img' width=200>
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
 - [x] 2. User see's custom background color.
